@@ -48,6 +48,6 @@ Para cada usuário na tabela `users`, existe um perfil correspondente em uma de 
 
 Essa estrutura permite que um usuário seja autenticado de forma unificada, enquanto seus dados de perfil são mantidos em tabelas separadas e especializadas, evitando colunas nulas e mantendo o modelo de dados limpo.
 
-
+![capturadetela](https://github.com/Pizzade42queijos/PDM_IFPE_API_PRJ/blob/main/API.png)
 
 A API foi gerada para abrir no endereço local padrão `http://127.0.0.1:8000`, e a documentação interativa em `http://127.0.0.1:8000/docs`. Sendo preciso os comandos padrão apenas para execução de API FAST
